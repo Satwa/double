@@ -1,0 +1,49 @@
+html, body{
+	background-color:#E6E2AF;
+	text-align:center;
+	margin:auto;
+	overflow:hidden;
+	max-width:100%;
+}
+
+h1{
+	color:#A7A37E;
+	text-shadow: 3px 2px 3px #787746;
+	font-size: 60px;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+
+h5{
+	color:#A7A37E;
+	margin-top:5px;
+}
+
+#rand, #res{
+	font-size:30px;
+	background-color:#E6E2AF;
+	border:none;
+	text-align:center;
+}
+
+#startop{
+	font-size:25px;
+	background-color:#A7A37E;
+	border:none;
+	color:#E6E2AF;
+}
+
+#score{
+	color:#A7A37E;
+	font-size: 20px;
+	position:fixed;
+	margin-left:10px;
+	left:0;
+	bottom:0;
+	float:left;
+}
+#win{
+	left:0;
+	bottom:0;
+	float:right;
+}
